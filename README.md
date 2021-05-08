@@ -1,5 +1,4 @@
 # This is a Demo of password entry component
-(for Scott M)
 
 ![Password-entry-demo](https://user-images.githubusercontent.com/46580689/117536180-d78a3600-afb6-11eb-886a-8499b0368863.png)
 
