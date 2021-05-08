@@ -1,5 +1,7 @@
 # This is a Demo of password entry component
 
+![Password-entry-demo](https://user-images.githubusercontent.com/46580689/117536180-d78a3600-afb6-11eb-886a-8499b0368863.png)
+
 to run
 
 ### `npm start`
@@ -8,7 +10,6 @@ to unit test:
 
 ### `npm test`
 
-# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
