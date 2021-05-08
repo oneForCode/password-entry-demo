@@ -1,4 +1,5 @@
 # This is a Demo of password entry component
+(for Scott M)
 
 ![Password-entry-demo](https://user-images.githubusercontent.com/46580689/117536180-d78a3600-afb6-11eb-886a-8499b0368863.png)
 
@@ -9,6 +10,23 @@ to run
 to unit test:
 
 ### `npm test`
+
+
+
+Task:
+
+This React password entry library meets the following requirements:
+
+    Has two input fields to validate the entry from the user (both inputs must match)
+    Password has a min length of 6 characters
+    Password has at least 1 uppercase character
+    Password has at least 1 lowercase character
+    Password has at least 1 number
+    Password has at least 1 special character (!@#$%^&*()_-+={[}]|:;"'<,>.)
+    Has a submit button that will trigger validation and present success or why the password entry failed
+
+
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
