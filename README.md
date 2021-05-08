@@ -1,4 +1,4 @@
-# This is a Demo of Password entry component
+# This is a Demo of password entry component
 
 to run
 
